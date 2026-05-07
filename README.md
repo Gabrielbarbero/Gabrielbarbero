@@ -85,7 +85,7 @@ Estudante de **Ciência da Computação** (3º semestre) apaixonado por transfor
 
 <p align="center">
   <a href="https://github.com/gabrielbarbero">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielbarbero&bg_color=282c34&color=8F0000&line=CCC&point=FFFFFF&area_color=8F0000&border_radius=24.5&title_color=CCC&border_radius=20px"/>
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielbarbero&bg_color=0D1117&hide_border=true&color=8F0000&line=CCC&point=FFFFFF&area_color=8F0000&border_radius=24.5&title_color=CCC&border_radius=20px"/>
   </a> 
 </p>
 
@@ -93,6 +93,6 @@ Estudante de **Ciência da Computação** (3º semestre) apaixonado por transfor
 
  <p align="center">
    <a href="https://github.com/gabrielbarbero"> 
-     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielbarbero&theme=onedark&hide_border=true&background=282C34&stroke=8F0000&ring=8F0000&fire=8F0000&currStreakLabel=CCCCCC&currStreakNum=FFFFFF&sideLabels=CCCCCC&sideNums=FFFFFF&dates=888888" /> 
+     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielbarbero&theme=onedark&hide_border=true&background=0D1117&stroke=8F0000&ring=8F0000&fire=8F0000&currStreakLabel=CCCCCC&currStreakNum=FFFFFF&sideLabels=CCCCCC&sideNums=FFFFFF&dates=888888" /> 
    </a>  
  </p>
