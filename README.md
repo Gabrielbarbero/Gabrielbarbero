@@ -76,8 +76,8 @@ Estudante de **Ciência da Computação** (3º semestre) apaixonado por transfor
   <a href="https://www.linkedin.com/in/gabrielbarberodev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-    <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/In-Progress-23262E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portifolio">
+    <a href="https://gabrielbarbero.github.io/portfolio-gabriel-barbero/" target="_blank">
+    <img src="https://img.shields.io/badge/Portifolio-23262E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portifolio">
   </a>
 </p>
 
