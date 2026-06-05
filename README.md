@@ -89,10 +89,3 @@ Estudante de **Ciência da Computação** (3º semestre) apaixonado por transfor
   </a> 
 </p>
 
-
-
- <p align="center">
-   <a href="https://github.com/gabrielbarbero"> 
-     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielbarbero&theme=onedark&hide_border=true&background=0D1117&stroke=8F0000&ring=8F0000&fire=8F0000&currStreakLabel=CCCCCC&currStreakNum=FFFFFF&sideLabels=CCCCCC&sideNums=FFFFFF&dates=888888" /> 
-   </a>  
- </p>
