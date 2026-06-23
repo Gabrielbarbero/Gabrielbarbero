@@ -65,13 +65,13 @@ Estudante de **Ciência da Computação** (3º semestre) apaixonado por transfor
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
   width="30" 
-  title="MySQL" 
-  alt="MySQL" />
+  title="PostgreSQL" 
+  alt="PostgreSQL" />
   &nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
   width="30" 
-  title="MySQL" 
-  alt="MySQL" />
+  title="React" 
+  alt="React" />
 <br>
 
 <p align="center">
