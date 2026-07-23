@@ -1,7 +1,7 @@
 # Gabriel Barbero
 ## `Desenvolvedor`
 
-Estudante de **Ciência da Computação** (3º semestre) apaixonado por transformar lógica em interfaces funcionais e sistemas eficientes. Sou um entusiasta de tecnologia que transita entre o desenvolvimento de software, design de interfaces e hardware.
+Estudante de **Ciência da Computação** (4º semestre) apaixonado por transformar lógica em interfaces funcionais e sistemas eficientes. Sou um entusiasta de tecnologia que transita entre o desenvolvimento de software, design de interfaces e hardware.
 
 ---
 
