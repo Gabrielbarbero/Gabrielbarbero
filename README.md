@@ -86,11 +86,4 @@ Estudante de **Ciência da Computação** (4º semestre) apaixonado por transfor
   </a>
 </p>
 
- ## Github Stats:
-
-<p align="center">
-  <a href="https://github.com/gabrielbarbero">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielbarbero&bg_color=0D1117&hide_border=true&color=8F0000&line=CCC&point=FFFFFF&area_color=8F0000&border_radius=24.5&title_color=CCC&border_radius=20px"/>
-  </a> 
-</p>
 
